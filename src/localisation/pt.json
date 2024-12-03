@@ -7,7 +7,7 @@
     "clearCache": "Limpar Cache da ProtonDB",
     "clearCacheLabel": "Limpa a cache para forçar a atualização de todos os selos do ProtonDB",
     "expandOnHover": "Expandir rótulo ao passar o rato",
-    "expandOnHoverDescription": "Minimalist Only. Display badge text on focus",
+    "expandOnHoverDescription": "Modo minimalista. Mostra texto do selo quando focado.",
     "positionTopLeft": "Canto Superior Esquerdo",
     "positionTopRight": "Canto Superior Direito",
     "settings": "Definições",
